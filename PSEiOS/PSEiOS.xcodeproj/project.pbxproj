@@ -18,6 +18,7 @@
 		A9575D5D25B1BF9D0069FFC3 /* CafeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9575D5C25B1BF9D0069FFC3 /* CafeViewController.swift */; };
 		A9575D6225B1C3E50069FFC3 /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9575D6125B1C3E50069FFC3 /* SettingViewController.swift */; };
 		A95D7B6725B1BE99009EB587 /* exInfo.plist in Resources */ = {isa = PBXBuildFile; fileRef = A95D7B6625B1BE99009EB587 /* exInfo.plist */; };
+		A99D9C3C25B324E20043DE8A /* ResString.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9575D5225B1BF560069FFC3 /* ResString.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -77,6 +78,7 @@
 				A9575D5825B1BF930069FFC3 /* VideoViewController.swift */,
 				A9575D5C25B1BF9D0069FFC3 /* CafeViewController.swift */,
 				A9575D6125B1C3E50069FFC3 /* SettingViewController.swift */,
+				A9575D5225B1BF560069FFC3 /* ResString.swift */,
 				A93C80EC25AC745E00229647 /* Main.storyboard */,
 				A93C80EF25AC745E00229647 /* Assets.xcassets */,
 				A93C80F125AC745E00229647 /* LaunchScreen.storyboard */,
@@ -92,7 +94,6 @@
 				A9575D5325B1BF560069FFC3 /* PSEiOS.entitlements */,
 				A9575D5025B1BF560069FFC3 /* exAppDelegate.swift */,
 				A93C80EA25AC745E00229647 /* exViewController.swift */,
-				A9575D5225B1BF560069FFC3 /* ResString.swift */,
 				A9575D5125B1BF560069FFC3 /* CommonUtils.swift */,
 			);
 			path = ReferenceFiles;
@@ -172,6 +173,7 @@
 				A93C80EB25AC745E00229647 /* exViewController.swift in Sources */,
 				A9575D5D25B1BF9D0069FFC3 /* CafeViewController.swift in Sources */,
 				A93C80E725AC745E00229647 /* AppDelegate.swift in Sources */,
+				A99D9C3C25B324E20043DE8A /* ResString.swift in Sources */,
 				A93C80E925AC745E00229647 /* SceneDelegate.swift in Sources */,
 				A9575D5925B1BF930069FFC3 /* VideoViewController.swift in Sources */,
 				A9575D6225B1C3E50069FFC3 /* SettingViewController.swift in Sources */,
