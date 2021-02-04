@@ -1,0 +1,7 @@
+## Marco Ignore Xcode Files ##
+
+PSEiOS.xcodeproj
+PSEiOS/Assets.xcassets
+PSEiOS/Base.lproj
+PSEiOS/ReferenceFiles/
+PSEiOS/Info.plist
